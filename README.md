@@ -1,4 +1,5 @@
 # Sales_Data_Analysis
+This project was done in collaboration with Bhargav Pachouli(@Bhargavakku0.
 Overview
 
 This project demonstrates end-to-end Sales Data Analysis by combining Pandas, SQL, Power BI, and Tableau.
